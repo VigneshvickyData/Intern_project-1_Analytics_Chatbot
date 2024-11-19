@@ -10,11 +10,9 @@ imblearn
 xgboost
 catboost
 pymongo
-from_root
 evidently==0.2.8
 dill
 pyYAML
-neuro_mf
 boto3
 mypy-boto3-s3
 botocore
@@ -25,3 +23,6 @@ python-multipart
 joblib
 python-dotenv
 streamlit
+
+
+
