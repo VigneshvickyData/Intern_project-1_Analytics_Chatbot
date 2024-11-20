@@ -4,7 +4,7 @@
 
 
 ### 1. Introduction 
-    - This task aimed to devalop a dashboard for analyzing chatbot interactions. By tracking key metrics scuh as the number of queries, most common topics , and user satisfaction ratings, the dashboard provides actionable insights into chatbot usage and performance. This tool is designed to aid in evaluating user behavior and enhancing the chatbot's effectiveness.
+    This task aimed to devalop a dashboard for analyzing chatbot interactions. By tracking key metrics scuh as the number of queries, most common topics , and user satisfaction ratings, the dashboard provides actionable insights into chatbot usage and performance. This tool is designed to aid in evaluating user behavior and enhancing the chatbot's effectiveness.
 
 ### 2. Background
     - In today's digital landscape, chatbot play an essential role in authomating customer interactions across industies. To ensure their effectiveness, organization rely on analytics to evaluate user engagement  and satisfaction. This task utilized data from the "NLP Chatbot" dataset on Kaggle to extrect meaning ful patterns and create an interactive dashboard.
