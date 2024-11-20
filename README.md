@@ -9,13 +9,12 @@ This task aimed to devalop a dashboard for analyzing chatbot interactions. By tr
 ### 2. Background
 In today's digital landscape, chatbot play an essential role in authomating customer interactions across industies. To ensure their effectiveness, organization rely on analytics to evaluate user engagement  and satisfaction. This task utilized data from the "NLP Chatbot" dataset on Kaggle to extrect meaning ful patterns and create an interactive dashboard.
 
+Dataset :
+Raw dataset link : 
+[URL](https://github.com/VigneshvickyData/Intern_project-1_Analytics_Chatbot/raw/refs/heads/main/notebook/data/chatbot_dataset.csv)
 
-     Dataset :
-       Raw dataset link : 
-            D:\INTERNSHIP Projects\chatbot_intern_task1\Intern_project-1_Analytics_Chatbot\notebook\data\chatbot_dataset.csv
-
-       Processed dataset link:
-            D:\INTERNSHIP Projects\chatbot_intern_task1\Intern_project-1_Analytics_Chatbot\notebook\Processed_dataset.csv
+Processed dataset link:
+[URL](https://github.com/VigneshvickyData/Intern_project-1_Analytics_Chatbot/raw/refs/heads/main/notebook/Processed_dataset.csv)
 
 ### 3. Learning Objectives
 1. Apply data analysis and visualization techniques to derive insights.
