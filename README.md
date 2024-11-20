@@ -16,7 +16,7 @@ Raw dataset link :
 This dataset was sourced from Kaggle
 
 Processed dataset link:
-[URL](https://github.com/VigneshvickyData/Intern_project-1_Analytics_Chatbot/raw/refs/heads/main/notebook/Processed_dataset.csv)
+[URL](https://github.com/VigneshvickyData/Intern_project-1_Analytics_Chatbot/blob/main/notebook/Processed_dataset.csv)
 This dataset was preprocessed by me as part of the task
 
 ### 3. Learning Objectives
