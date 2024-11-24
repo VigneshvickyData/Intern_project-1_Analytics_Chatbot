@@ -1,3 +1,5 @@
+# Intership Project: Learn To Build A Real Time Gen AI Customer Service Bot
+
 # Task 1: Adding Basic Analystic to Track User Interactions
 
 ## Final Report
@@ -17,7 +19,7 @@ This dataset was sourced from Kaggle
 
 Processed dataset link:
 [URL](https://drive.google.com/file/d/1-IHt7ZcQ685hzE4eCPRPizWRIDtpiOuS/view?usp=sharing)
-This dataset was preprocessed by me as part of the task
+This dataset was preprocessed by me as part of the task. The dataset is also include in the notebook folder for convenience.
 
 ### 3. Learning Objectives
 1. Apply data analysis and visualization techniques to derive insights.
