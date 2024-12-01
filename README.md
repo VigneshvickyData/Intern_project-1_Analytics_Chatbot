@@ -54,11 +54,9 @@ Core Competencies:
 * Attention to detail to ensure data and visualizations are accurate.
 * Presentation of technical insights in an intuitive dashboard.
 
-### 6. Feedback and Evidence
-Feedback:
-* Positive remark from the mentor on the dashboard's clarity and user-friendliness.
-* Received suggestion for adding interactive filters, which can be explored in future tasks.
-Evidence:
+### 6. Evidence
+* Evidence:
+ 
 ### Screenshots of the final dashboard :
 
 ![App Screenshot](https://github.com/VigneshvickyData/Data_Branching/blob/main/1.png?raw=true)
