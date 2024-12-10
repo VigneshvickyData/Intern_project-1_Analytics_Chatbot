@@ -2,8 +2,6 @@
 
 # Task 1: Adding Basic Analystic to Track User Interactions
 
-## Final Report
-
 
 ### 1. Introduction 
 This task aimed to devalop a dashboard for analyzing chatbot interactions. By tracking key metrics scuh as the number of queries, most common topics , and user satisfaction ratings, the dashboard provides actionable insights into chatbot usage and performance. This tool is designed to aid in evaluating user behavior and enhancing the chatbot's effectiveness.
