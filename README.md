@@ -93,22 +93,7 @@ Impact:
 ### 9. Conclusion
 Task 1 Successfully demonstrated how analyttics can transform raw chatbot data into meaningful insights. By developing an interactive dashboard, I gained valuable experience in data processing, visulation, and software development. These skils will contribute significant to future tasks in this internship.
 
-### 10. Development Process (Dily Report Summary)
-Day 1 
-- Experimental work: explored the dataset and outlined a rough project structure.
-
-Day 2 
-- Create the Project structure.
-- Performed exploratory data analysis (EDA ) and davelopment the code for metrics and dashboard visualization.
-
-Day 3 
-- Conducted final validation and testing of the chatbot analytics dashboard.
-- Verified metric calculations and chart rendering.
-- Uploaded the source code to github.
-- Prepared and reviewed the final report for submission.
-
-Day 4  
-- submit the final report with source code of the task 1 in github        
+     
 
 ### To run the Environment:
 - Environment -> conda create -n intern_task1 python=3.9 -y
